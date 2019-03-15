@@ -14,7 +14,7 @@
     },
     replace: function(portion, match) {
       var a = document.createElement('a');
-      a.href = 'https://go.hackmit.org/' + match[1];
+      a.href = 'http://go.mitmic.io/' + match[1];
       a.innerText = 'go/' + match[1];
       return a;
     },

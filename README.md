@@ -1,8 +1,10 @@
-# HackMIT Go Chrome Extension
+# MIT MIC Go Chrome Extension
 
-A Chrome extension for https://go.hackmit.org/
+Fork of https://github.com/techx/hackmit-go-chrome
 
-Just type `go something` in the omnibar...
+A Chrome extension for http://go.mitmic.io/
+
+Just type `mi something` in the omnibar...
 
 The extension also finds all instances of "go/whatever", even on Google Docs
 and stuff, and automatically turns them into clickable links!
